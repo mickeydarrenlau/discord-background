@@ -123,7 +123,7 @@
     "spec": 2,
     "background": {
         "url": "https://raw.githubusercontent.com/mickeydarrenlau/discord-background/refs/heads/main/anm7825.jpg",
-        "alpha": 0.4,
+        "alpha": 0.5,
         "color": "#081924"
     }
 }
